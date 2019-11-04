@@ -1,33 +1,23 @@
 apt update
-
 apt upgrade
-
-apt install git
-
 pkg install python3
-
-pip3 install rsa
-
-pip3 install thrift==0.11.0
-
-pip3 install requests
-
-pip3 install bs4
-
-pip3 install gtts
-
-pip3 install pytz
-
-pip3 install humanfriendly
-
-pip3 install googletrans
-
+pkg install pip3
+pkg install git 
 pkg install nano
+pip3 install rsa
+pip3 install thrift==0.11.0
+pip3 install requests
+pip3 install bs4
+pip3 install gtts
+pip3 install pytz
+pip3 install humanfriendly
+pip3 install googletrans
+pip3 install antolib
+pip3 install linepy
+pip3 install akad
+git clone https://github.com/lovepeapop/1 
 
-git clone https://github.com/Emclub/botLineEm
+cd 1
 
-Nano Tes.py    (Edit MID)
-
-cd botLineEm
-
-PYThon3 Tes.py
+ls
+python3 Tan.py
