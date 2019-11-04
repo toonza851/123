@@ -15,7 +15,7 @@ pip3 install googletrans
 pip3 install antolib
 pip3 install linepy
 pip3 install akad
-git clone https://github.com/lovepeapop/1 
+git clone https://github.com/toonza851/123.git
 
 cd 1
 
